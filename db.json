@@ -1,0 +1,68 @@
+{
+  "enquiry": [
+    {
+      "firstName": "siri",
+      "lastName": "tatami",
+      "email": "sirig666@gmail.com",
+      "contact": "8191054636",
+      "weight": 74,
+      "height": 6,
+      "gender": "Male",
+      "requireTrainer": "YES",
+      "package": "Yearly",
+      "important": [
+        "Toxic fat reduction",
+        "Energy and Endurance",
+        "Building lean muscle",
+        "Healthier digestive system"
+      ],
+      "haveGymBefore": "YES",
+      "enquiryDate": "2023-03-23T18:30:00.000Z",
+      "bmi": "bmi",
+      "bmiResult": "Under Weight",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "doe",
+      "email": "johndoe@gmail.com",
+      "contact": "2344869781",
+      "weight": 74,
+      "height": 6,
+      "gender": "Male",
+      "requireTrainer": "YES",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier digestive system",
+        "Sugar craving body"
+      ],
+      "haveGymBefore": "YES",
+      "enquiryDate": "2023-03-16T18:30:00.000Z",
+      "bmi": "bmi",
+      "bmiResult": "Under Weight",
+      "id": 2
+    },
+    {
+      "firstName": "chamber",
+      "lastName": "dequazo",
+      "email": "chamberd123@gmail.com",
+      "contact": "8138910467",
+      "weight": 74,
+      "height": 156,
+      "gender": "Male",
+      "requireTrainer": "YES",
+      "package": "Quarterly",
+      "important": [
+        "Healthier digestive system",
+        "Sugar craving body",
+        "fitness"
+      ],
+      "haveGymBefore": "YES",
+      "enquiryDate": "2023-03-29T18:30:00.000Z",
+      "bmi": "bmi",
+      "bmiResult": "Under Weight",
+      "id": 4
+    }
+  ]
+}
